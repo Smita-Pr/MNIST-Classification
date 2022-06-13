@@ -8,7 +8,10 @@ Using MNIST dataset ( 60K training and 10K test examples -samples )
 
 
 Env prep -- conda install -c conda-forge keras
-conda create --name tensorflow 
+
+conda create --name tensorflow
+
 activate tensorflow
+
 pip install tensorflow
 
